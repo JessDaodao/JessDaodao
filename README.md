@@ -1,4 +1,4 @@
-![](/Csituka_D.png)
+![](/Csituka_D.png =400x)
 
 Hello, I'm Csituka_D(JessDaodao), 15, student
 
