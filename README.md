@@ -1,4 +1,4 @@
-![](/Csituka_D.png =400x)
+![](/Csituka_D.png){:height="auto" width="400px"}
 
 Hello, I'm Csituka_D(JessDaodao), 15, student
 
